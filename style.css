@@ -29,7 +29,7 @@ p, li {
     font-size: 1.1em;
 } 
 
-.entete, .pied-de-page {
+header, footer {
     background-color: white;
 } 
 
