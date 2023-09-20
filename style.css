@@ -130,6 +130,7 @@ nav a {
     text-align: center;
     margin-bottom: 80px;
 }
+
 .accueil-projet div{
     display: flex;
     flex-direction: column;
@@ -139,13 +140,17 @@ nav a {
 
 .portfolio-section-photos {
     background-color: white;
-  }
+}
   
 .portfolio-section-photos h2 {
     color: #242424;
     margin-bottom: 80px;
 }
   
+.portfolio-section-photos div {
+    margin-bottom: 80px;
+} 
+
 .grid-paysages img,
 .grid-portraits img {
     width: 100%;
