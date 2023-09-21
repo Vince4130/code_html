@@ -215,4 +215,28 @@ nav a {
     flex-direction: column;
     width: 80%;
     margin: auto;
+}
+
+table {
+    color: white;
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+    width: 100%;
+} 
+
+th, 
+td {
+    border: 1px solid #a5b4fc;
+    color: white;
+    padding: 15px;
+} 
+
+td {
+    padding: 80px;  
+} 
+
+section > h2 {
+    padding: 80px;
+    text-align: center;
 } 
