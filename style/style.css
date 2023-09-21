@@ -14,24 +14,24 @@ a {
 }
 
 em {
-    color: #A5B4FC;
+    color: #a5b4fc;
     font-size: normal;
 } 
 
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5em;
-    color: #A5B4FC;
+    color: #a5b4fc;
 } 
 
 h2 {
-    color: #F9F8FF;
+    color: #f9f8ff;
 } 
 
 p,
 li {
     font-size: 1.1em;
-    color: #F9F8FF;
+    color: #f9f8ff;
 } 
 
 header, 

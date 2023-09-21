@@ -19,6 +19,7 @@
 
 .a-propos-main {
     margin: auto;
+    width: 80%;
 } 
 
 table {
@@ -40,11 +41,16 @@ td {
     padding: 80px;  
 } 
 
-h2 {
+/* h2 {
     margin-bottom: 80px;
-} 
+}  */
 
-h1,
+/* h1,
 h2 {
     text-align: center;
+}  */
+
+section > h2{
+    text-align: center;
+    margin-bottom: 80px;
 } 
